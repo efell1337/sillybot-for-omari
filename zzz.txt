@@ -1,0 +1,1 @@
+This bot was made as a silly project! this includes slash commands and a ghost ping detector, hope you enjoy omari!
